@@ -4,7 +4,7 @@ In this project, we were given three texts that contained two ciphers. The first
 
 ---
 
-This repository includes:
+This repository contains:
 - Project report (.pdf file)
 - Project code (.py file)
 - Given texts-ciphers (.pdf files)
